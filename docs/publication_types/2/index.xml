@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Academic</title>
+    <link>https://nicolashernandezb.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://nicolashernandezb.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combining Entropy Measures for Anomaly Detection</title>
+      <link>https://nicolashernandezb.github.io/publication/entropy2/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://nicolashernandezb.github.io/publication/entropy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy Measures for Stochastic Processes with Applications in Functional Anomaly Detectionn</title>
+      <link>https://nicolashernandezb.github.io/publication/entropy1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://nicolashernandezb.github.io/publication/entropy1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

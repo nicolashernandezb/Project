@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>https://nicolashernandezb.github.io/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://nicolashernandezb.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combining Entropy Measures for Anomaly Detection</title>
+      <link>https://nicolashernandezb.github.io/publication/entropy2/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://nicolashernandezb.github.io/publication/entropy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy Measures for Stochastic Processes with Applications in Functional Anomaly Detectionn</title>
+      <link>https://nicolashernandezb.github.io/publication/entropy1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://nicolashernandezb.github.io/publication/entropy1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Depth Measures for Functional Data with Application to Outlier Detection</title>
+      <link>https://nicolashernandezb.github.io/publication/icann/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://nicolashernandezb.github.io/publication/icann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
